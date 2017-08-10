@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+}
+
+
+li {
+  list-style: none;
+}
+
+.table {
+  text-align: center;
+}
+
+#table1 {
+  width:70%;
+  margin-left:25%;
+  margin-right:15%;
+  margin-top:15%;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+td {
+  padding: 5px;
+  font-size: 22px;
+}
